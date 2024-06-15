@@ -18,3 +18,4 @@ third = {"d": -5}
 print(sum_dicts(first))
 print(sum_dicts(first, second, third))
 print(sum_dicts(first, second))
+print(sum_dicts(third, second))
