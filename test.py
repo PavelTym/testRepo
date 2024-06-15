@@ -11,8 +11,8 @@ def sum_dicts(*args) -> dict:
     return total_dict
 
 
-first = {"a": 2, "b": 4}
-second = {"a": 2, "b": 10}
+first = {"a": 9, "b": 4}
+second = {"a": 2, "b": 13}
 third = {"d": -5}
 
 print(sum_dicts(first))
